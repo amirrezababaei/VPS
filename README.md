@@ -13,7 +13,7 @@
 ### Installation
 
 ##### Requirement:
- - GIT  ( Rexxar GitHub )
+ - GIT
  - A Heroku account ( Register on Heroku )
  - Stable Network
 
@@ -22,16 +22,6 @@
 - Choose a name for your Web Application ( such as Rexxarbots.heroku.com )
 - in Heroku , click on “ Deply app “ 
 - Fishish , Enjoy !
-
-
-Rexxar does not own these codes and is only a publisher.
-
-
-Contact us : 
-
-	Website : rexxar.ir
-	Telegram : rexxar_ir
-	Instagram : rexxar.ir
 
 
 
@@ -56,7 +46,6 @@ Contact us :
 ###    نصب و توسعه :
 
 ####  موارد مورد نیاز برای نصب : 
-- داشتن GitHub رکسار یا دانلود کردن خود فایل های مربوطه از GitHub  رکسار
 - ثبتنام در سایت Heroku و داشتن یک اکانت در آن
 - داشتن اینترنت مناسب ( مخصوصا اینترنت ایران که اصلا عالیه :دی )
 
@@ -67,15 +56,6 @@ Contact us :
 - برای وب اپلیکیشن خود ، یک نام مناسب انتخاب کنید .
 - در سایت Heroku بر روی دکمه Deploy app کلیک کنید .
 - پایان ، لذت ببرید .
-
-
-## رکسار را در شبکه های مجازی دنبال کنید :
-
-
-	
-	وب سایت رسمی رکسار  : Rexxar.ir
-	کانال تلگرام رسمی رکسار : Rexxar_ir
-	اینستاگرام رکسار : rexxar.ir
 	
 	
 </div>
