@@ -19,7 +19,7 @@
 
 ##### Steps: 
 - Click on “ Deploy to Heroku “ Button 
-- Choose a name for your Web Application ( such as Rexxarbots.heroku.com )
+- Choose a name for your Web Application
 - in Heroku , click on “ Deply app “ 
 - Fishish , Enjoy !
 
